@@ -1,2 +1,4 @@
 # trabalho_final_estrut1
-Trabalho final disciplina de Estrutura de Dados no segundo semestre do Curso de Ciências da Computação na Universidade Feevale.
+Trabalho final disciplina de Estrutura de Dados no segundo semestre do Curso de Ciências da Computação na Universidade Feevale. O estudante deve implementar o algoritmo merge sort e comparar o seu desempenho em relação aos algoritmos bubble sort, selection sort e insertion sort. A comparação deve ser realizada sobre vetores dos seguintes tamanhos: 50 mil, 100 mil, 150 mil e 200 mil números inteiros.
+
+Final work Data Structure discipline in the second semester of the Computer Science Course at Feevale University. The student must implement the merge sort algorithm and compare its performance in relation to the bubble sort, selection sort and insertion sort algorithms. The comparison must be carried out on vectors of the following sizes: 50 thousand, 100 thousand, 150 thousand and 200 thousand integers.
